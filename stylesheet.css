@@ -1,10 +1,19 @@
 body{
-     font-family:"せのびゴシック Medium"
+     font-family:"せのびゴシック Medium";
 }
 .header{
         background-color:ffe4c4;
-        height:90px;   
+        height:90px;
+}
         h1{
            color:#cd5c5c;
            font-family:"02うつくし明朝体";
+     }
+.main{
+      background-color:#f5f5f5;
+      height:1200px;
+}    
+.footer{
+       background-color:#bc8f8f;
+       height:90px;
 }
