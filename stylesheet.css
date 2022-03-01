@@ -22,11 +22,16 @@ li{
   padding:20px 40px;
 }
 
+.header-list{
+   float:left;
+}
+
 .main{
   background-color:#f5f5f5;
-  li{
-    float:left;
-  }
+}
+
+h2{
+ float:right;
 }
 
 .footer{
